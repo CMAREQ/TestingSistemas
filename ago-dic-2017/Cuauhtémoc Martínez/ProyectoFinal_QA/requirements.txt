@@ -1,4 +1,0 @@
-sqlalchemy
-bs4
-urlextract
-requests
